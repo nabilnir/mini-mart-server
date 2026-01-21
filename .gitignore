@@ -47,3 +47,5 @@ temp/
 # IDE specific
 *.sublime-workspace
 *.sublime-project
+.vercel
+.env*.local
